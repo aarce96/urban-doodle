@@ -1,6 +1,14 @@
 const inquirer = require("inquirer");
 const CTable = require("console.table");
 
+console.log(`
+.--------------------.
+|                    |  
+|  EMPLOYEE TRACKER  |
+|                    |
+.--------------------.
+`);
+
 const mainMenuQuestions = {
   type: "list",
   name: "answer",
