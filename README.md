@@ -51,7 +51,6 @@ Enter the following commands, one by one:
 source db/schema.sql;
 source db/seeds.sql;
 quit;
-
 ```
 <br>
 In the root terminal, enter the following command to run file:
@@ -73,3 +72,4 @@ node index
 https://github.com/aarce96/urban-doodle
 
 ## Video link
+https://drive.google.com/file/d/1m8BjmgMyyeZ9w1B4OvncHb2jcx7HjB5s/view
