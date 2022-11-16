@@ -1,12 +1,12 @@
-const mysql = require('mysql2');
+const mysql = require("mysql2");
 
 const db = mysql.createConnection({
-  host: 'localhost',
+  host: "localhost",
   // MySQL username,
-  user: 'root',
+  user: "root",
   // MySQL password
-  password: 'password',
-  database: 'etracker_db'
+  password: "password",
+  database: "etracker_db",
 });
 
 module.exports = db;
